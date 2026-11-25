@@ -1,0 +1,4 @@
+*.xlsx binary
+*.png binary
+*.gz binary
+Development/* linguist-generated=true
