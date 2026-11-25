@@ -6,8 +6,8 @@ An integrated three-statement financial model prepared as part of an MSc Finance
 
 - `Model/` — final Excel workbook
 - `Screenshots/` — visual previews of all workbook tabs
-- `Sources/` — Diageo FY2025 annual report and FY2026 financial statements
-- `QA/` — workbook inspection output used for formula and integrity checks
+- `Sources/` — official source register with links to Diageo reports
+- `QA/` — local workbook inspection output used for formula and integrity checks
 - `Development/` — model-generation script
 
 ## Model coverage
@@ -31,3 +31,5 @@ Open `Model/Diageo_Three_Statement_Model.xlsx`. On the `Assumptions` tab, change
 ## Disclaimer
 
 This model was prepared independently for educational and academic-application purposes. It is not investment advice. Forecast assumptions are illustrative, and selected items—including FX, acquisitions and disposals, leases, pensions, and detailed tax effects—are simplified.
+
+The GitHub repository links to the official reports rather than duplicating the large PDF files. The complete local project package retains the downloaded source documents and detailed QA output.
